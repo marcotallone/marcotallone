@@ -24,6 +24,7 @@
 ![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white)
 
 ## 💡 Take a look at my most recent repositories
+[![NoTeX][notex-shield]][notex-url] A template for taking nice notes in LaTeX
 
 [![Parallel%20Quicksort][parallel-quicksort-shield]][parallel-quicksort-url] Parallel implementations of quicksort algorithms in `C` using [MPI](https://www.open-mpi.org/) and [OpenMP](https://www.openmp.org/)
 
@@ -43,3 +44,6 @@
 
 [collective-operations-shield]: https://img.shields.io/badge/Collective%20Operations-completed-CollectiveOperations?style=for-the-badge&logo=mind
 [collective-operations-url]: https://github.com/marcotallone/collective-operations-latency
+
+[notex-shield]: https://img.shields.io/badge/NoTeX-always%20updating-orange?style=for-the-badge&logo=mind
+[notex-url]: https://github.com/marcotallone/notex
