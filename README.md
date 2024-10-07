@@ -1,4 +1,4 @@
-# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25">, I'm Marco!
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25">, I'm Marco
 
 ## 📚 My background
 
@@ -31,6 +31,10 @@
 
 [![Collective%20Operations][collective-operations-shield]][collective-operations-url] Modelling of MPI collective operations and HPC cluster nodes from point-to-point latencies
 
+[![Cloud%20Storage%20System][cloud-storage-syste-shield]][cloud-storage-syste-url] Deployment of a cloud-based storage system, using [Docker](https://www.docker.com/) and [Kubernetes](https://kubernetes.io/)
+
+[![Deep%20Learning%20Project][deep-learning-project-shield]][deep-learning-project-url] Brain tumor classification and segmentation on MRI images using CNN, U-Net, and VIT models.
+
 <!-- MARKDOWN LINKS & IMAGES -->
 
 <!-- Contacts -->
@@ -48,3 +52,12 @@
 
 [notex-shield]: https://img.shields.io/badge/NoTeX-always%20updating-orange?style=for-the-badge&logo=mind
 [notex-url]: https://github.com/marcotallone/notex
+
+[cloud-storage-syste-shield]:
+https://img.shields.io/badge/Cloud%20Storage%20System-completed-CloudStorageSystem?style=for-the-badge&logo=mind
+[cloud-storage-syste-url]: https://github.com/marcotallone/cloud-storage-system
+
+[deep-learning-project-shield]:
+https://img.shields.io/badge/Deep%20Learning%20Project-in%20progress-orange?style=for-the-badge&logo=mind
+[deep-learning-project-url]: https://github.com/marcotallone/deep-learning-project
+
