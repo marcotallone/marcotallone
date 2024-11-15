@@ -23,9 +23,9 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white)
 
-## 💡 Take a look at my most recent repositories
+## 💡 Take a look at my most recent projects
 
-[![NoTeX][notex-shield]][notex-url] A template for taking nice notes in LaTeX
+<!-- [![NoTeX][notex-shield]][notex-url] A template for taking nice notes in LaTeX
 
 [![Parallel%20Quicksort][parallel-quicksort-shield]][parallel-quicksort-url] Parallel implementations of quicksort algorithms in `C` using [MPI](https://www.open-mpi.org/) and [OpenMP](https://www.openmp.org/)
 
@@ -33,7 +33,15 @@
 
 [![Cloud%20Storage%20System][cloud-storage-syste-shield]][cloud-storage-syste-url] Deployment of a cloud-based storage system, using [Docker](https://www.docker.com/) and [Kubernetes](https://kubernetes.io/)
 
-[![Deep%20Learning%20Project][deep-learning-project-shield]][deep-learning-project-url] Brain tumor classification and segmentation on MRI images using CNN, U-Net, and VIT models.
+[![Deep%20Learning%20Project][deep-learning-project-shield]][deep-learning-project-url] Brain tumor classification and segmentation on MRI images using CNN, U-Net, and VIT models. -->
+
+| Repository | Description 
+|-------|-------------|
+| [![NoTeX][notex-shield]][notex-url] | A template for taking nice notes in LaTeX |
+| [![Parallel Quicksort][parallel-quicksort-shield]][parallel-quicksort-url] | Parallel implementations of quicksort algorithms in `C` using [MPI](https://www.open-mpi.org/) and [OpenMP](https://www.openmp.org/) |
+| [![Collective Operations][collective-operations-shield]][collective-operations-url] | Modelling of MPI collective operations and HPC cluster nodes from point-to-point latencies |
+| [![Cloud Storage System][cloud-storage-syste-shield]][cloud-storage-syste-url] | Deployment of a cloud-based storage system, using [Docker](https://www.docker.com/) and [Kubernetes](https://kubernetes.io/) |
+| [![Deep Learning Project][deep-learning-project-shield]][deep-learning-project-url] | Brain tumor classification and segmentation on MRI images using CNN, U-Net, and VIT models implemented in `Python` with [PyTorch](https://pytorch.org/) |
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
@@ -43,21 +51,21 @@
 [gmail-shield]: https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white&colorB=red
 [gmail-url]: mailto:marcotallone85@gmail.com
 
-<!-- Repositories -->
+<!-- Repositories badges and urls -->
 [parallel-quicksort-shield]: https://img.shields.io/badge/Parallel%20Quicksort-completed-ParallelQuicksort?style=for-the-badge&logo=mind
 [parallel-quicksort-url]: https://github.com/marcotallone/parallel-quicksort-algorithms
 
 [collective-operations-shield]: https://img.shields.io/badge/Collective%20Operations-completed-CollectiveOperations?style=for-the-badge&logo=mind
 [collective-operations-url]: https://github.com/marcotallone/collective-operations-latency
 
-[notex-shield]: https://img.shields.io/badge/NoTeX-always%20updating-orange?style=for-the-badge&logo=mind
+[notex-shield]: https://img.shields.io/badge/NoTeX-always%20updating-blue?style=for-the-badge&logo=mind
 [notex-url]: https://github.com/marcotallone/notex
 
 [cloud-storage-syste-shield]:
 https://img.shields.io/badge/Cloud%20Storage%20System-completed-CloudStorageSystem?style=for-the-badge&logo=mind
 [cloud-storage-syste-url]: https://github.com/marcotallone/cloud-storage-system
 
+<!-- https://img.shields.io/badge/Deep%20Learning%20Project-in%20progress-orange?style=for-the-badge&logo=mind -->
 [deep-learning-project-shield]:
-https://img.shields.io/badge/Deep%20Learning%20Project-in%20progress-orange?style=for-the-badge&logo=mind
+https://img.shields.io/badge/Deep%20Learning%20Project-completed-DeepLearningProject?style=for-the-badge&logo=mind
 [deep-learning-project-url]: https://github.com/marcotallone/deep-learning-project
-
