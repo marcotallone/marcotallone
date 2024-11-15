@@ -5,6 +5,13 @@
 * <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="25"> Bachelor Degree in [Physics](https://df.units.it/) at the [University of Trieste (**U**ni**TS**)](https://portale.units.it/it)
 * <img src="./images/pc.wepb" width="25"> Currently enrolled in the [Scientific and Data-Intensive Computing (**SDIC**)](https://sdic.units.it/) Master Degree at [**U**ni**TS**](https://portale.units.it/it)
 
+## 🌱 Currently learning
+
+* Optimal control theory for cyber-physical systems ([MATLAB](https://www.mathworks.com/))
+* Reinforcement learning / Model-free techniques for control theory
+* Computer vision and patter recognition techniques ([OpenCV](https://opencv.org/))
+* Simulation Intelligence and Scientific Machine Learning
+
 ## 📬 How to contact me
 
 <span align="center">
