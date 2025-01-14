@@ -26,9 +26,9 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white)
+<!-- ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) -->
+<!-- ![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white) -->
 
 ## 💡 Take a look at my most recent projects
 
@@ -49,6 +49,10 @@
 | [![Collective Operations][collective-operations-shield]][collective-operations-url] | Modelling of MPI collective operations and HPC cluster nodes from point-to-point latencies |
 | [![Cloud Storage System][cloud-storage-syste-shield]][cloud-storage-syste-url] | Deployment of a cloud-based storage system, using [Docker](https://www.docker.com/) and [Kubernetes](https://kubernetes.io/) |
 | [![Deep Learning Project][deep-learning-project-shield]][deep-learning-project-url] | Brain tumor classification and segmentation on MRI images using CNN, U-Net, and VIT models implemented in `Python` with [PyTorch](https://pytorch.org/) |
+| [![BoW Classifier][bow-classifier-shield]][bow-classifier-url] | Bag of Visual Words (BoW) classifier for image classification and scene recognition |
+| ![MPC Tracking][mpc-tracking-shield] | Model Predictive Control (MPC) for tracking and control of non-linear systems |
+| ![Railway Scheduling][railway-scheduling-shield] | Railway scheduling optimization using Mixed Integer Linear Programming (MILP) |
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
@@ -76,3 +80,15 @@ https://img.shields.io/badge/Cloud%20Storage%20System-completed-CloudStorageSyst
 [deep-learning-project-shield]:
 https://img.shields.io/badge/Deep%20Learning%20Project-completed-DeepLearningProject?style=for-the-badge&logo=mind
 [deep-learning-project-url]: https://github.com/marcotallone/deep-learning-project
+
+[bow-classifier-shield]:
+https://img.shields.io/badge/BoW%20Classifier-completed-BoWClassifier?style=for-the-badge&logo=mind
+[bow-classifier-url]: https://github.com/marcotallone/bow-classifier
+
+[mpc-tracking-shield]:
+https://img.shields.io/badge/MPC%20Tracking-in%20progress-orange?style=for-the-badge&logo=mind
+<!-- [mpc-tracking-url]:  -->
+
+[railway-scheduling-shield]:
+https://img.shields.io/badge/Railway%20Scheduling-in%20progress-orange?style=for-the-badge&logo=mind
+<!-- [railway-scheduling-url]: -->
