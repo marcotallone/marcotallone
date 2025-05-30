@@ -5,12 +5,11 @@
 * <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="25"> Bachelor Degree in [Physics](https://df.units.it/) at the [University of Trieste (**U**ni**TS**)](https://portale.units.it/it)
 * <img src="./images/pc.wepb" width="25"> Currently enrolled in the [Scientific and Data-Intensive Computing (**SDIC**)](https://sdic.units.it/) Master Degree at [**U**ni**TS**](https://portale.units.it/it)
 
-## 🌱 Currently learning
-
-* Optimal control theory for cyber-physical systems ([MATLAB](https://www.mathworks.com/))
+<!-- ## 🌱 Currently learning -->
+<!-- * Optimal control theory for cyber-physical systems ([MATLAB](https://www.mathworks.com/))
 * Reinforcement learning / Model-free techniques for control theory
 * Computer vision and patter recognition techniques ([OpenCV](https://opencv.org/))
-* Simulation Intelligence and Scientific Machine Learning
+* Simulation Intelligence and Scientific Machine Learning -->
 
 ## 📬 How to contact me
 
@@ -51,7 +50,7 @@
 | [![Deep Learning Project][deep-learning-project-shield]][deep-learning-project-url] | Brain tumor classification and segmentation on MRI images using CNN, U-Net, and VIT models implemented in `Python` with [PyTorch](https://pytorch.org/) |
 | [![BoW Classifier][bow-classifier-shield]][bow-classifier-url] | Bag of Visual Words (BoW) classifier for image classification and scene recognition |
 | [![MPC Tracking][mpc-tracking-shield]][mpc-tracking-url] | Model Predictive Control (MPC) for tracking and control of non-linear systems (in [`MATLAB`](https://www.mathworks.com/)) |
-| ![Railway Scheduling][railway-scheduling-shield] | Railway scheduling optimization using Mixed Integer Linear Programming (MILP) |
+| [![Railway Scheduling][railway-scheduling-shield]][railway-scheduling-url] | Railway scheduling optimization using Mixed Integer Linear Programming (MILP) |
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
@@ -90,5 +89,6 @@ https://img.shields.io/badge/MPC%20Tracking-completed-MPCTracking?style=for-the-
 [mpc-tracking-url]: https://github.com/marcotallone/mpc-tracking
 
 [railway-scheduling-shield]:
-https://img.shields.io/badge/Railway%20Scheduling-in%20progress-orange?style=for-the-badge&logo=mind
-<!-- [railway-scheduling-url]: -->
+https://img.shields.io/badge/Railway%20Scheduling-completed-RailwayScheduling?style=for-the-badge&logo=mind
+<!-- https://img.shields.io/badge/Railway%20Scheduling-in%20progress-orange?style=for-the-badge&logo=mind -->
+[railway-scheduling-url]: https://github.com/marcotallone/railway-scheduling
