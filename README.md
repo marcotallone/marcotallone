@@ -51,6 +51,8 @@
 | [![BoW Classifier][bow-classifier-shield]][bow-classifier-url] | Bag of Visual Words (BoW) classifier for image classification and scene recognition |
 | [![MPC Tracking][mpc-tracking-shield]][mpc-tracking-url] | Model Predictive Control (MPC) for tracking and control of non-linear systems (in [`MATLAB`](https://www.mathworks.com/)) |
 | [![Railway Scheduling][railway-scheduling-shield]][railway-scheduling-url] | Railway scheduling optimization using Mixed Integer Linear Programming (MILP) |
+| [![PINN PARETO][pinn-shield]][pinn-url] | Presentation on the apparent Pareto front of PINNs for solving PDEs |
+| [![IQL][iql-shield]][iql-url] | Presentation of an Improved Q-learning algorithm for the autonomous Path Planning problem
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
@@ -92,3 +94,11 @@ https://img.shields.io/badge/MPC%20Tracking-completed-MPCTracking?style=for-the-
 https://img.shields.io/badge/Railway%20Scheduling-completed-RailwayScheduling?style=for-the-badge&logo=mind
 <!-- https://img.shields.io/badge/Railway%20Scheduling-in%20progress-orange?style=for-the-badge&logo=mind -->
 [railway-scheduling-url]: https://github.com/marcotallone/railway-scheduling
+
+[pinn-shield]:
+https://img.shields.io/badge/PINN%20PARETO-completed-PINN?style=for-the-badge&logo=mind
+[pinn-url]: https://github.com/marcotallone/PINN-pareto-front
+
+[iql-shield]:
+https://img.shields.io/badge/IQL-completed-IQL?style=for-the-badge&logo=mind
+[iql-url]: https://github.com/marcotallone/improved-Q-learning?tab=readme-ov-file
