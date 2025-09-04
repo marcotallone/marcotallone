@@ -53,6 +53,7 @@
 | [![Railway Scheduling][railway-scheduling-shield]][railway-scheduling-url] | Railway scheduling optimization using Mixed Integer Linear Programming (MILP) |
 | [![PINN PARETO][pinn-shield]][pinn-url] | Presentation on the apparent Pareto front of PINNs for solving PDEs |
 | [![IQL][iql-shield]][iql-url] | Presentation of an Improved Q-learning algorithm for the autonomous Path Planning problem
+| [![Prey-Predator][prey-predator-shield]][prey-predator-url] | Modelling of stochastic Lotka-Volterra dynamics with fear effect and hunting cooperation |
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
@@ -102,3 +103,7 @@ https://img.shields.io/badge/PINN%20PARETO-completed-PINN?style=for-the-badge&lo
 [iql-shield]:
 https://img.shields.io/badge/IQL-completed-IQL?style=for-the-badge&logo=mind
 [iql-url]: https://github.com/marcotallone/improved-Q-learning?tab=readme-ov-file
+
+[prey-predator-shield]:
+https://img.shields.io/badge/Prey%20Predator-completed-PreyPredator?style=for-the-badge&logo=mind
+[prey-predator-url]: https://github.com/marcotallone/stochastic-prey-predator
